@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Keep-Notes-Clone</string>
+  <string name="navigate_back">Navigate Back</string>
+  <string name="clear_text">Clear Text</string>
+</resources>
